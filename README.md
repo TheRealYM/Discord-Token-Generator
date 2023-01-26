@@ -18,4 +18,4 @@
 
 # Discord Server
 
-**https://discord.gg/G8AK7g5zaz**
+**https://discord.gg/G8AK7g5zaz** JOIN US TODAY
