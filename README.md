@@ -22,7 +22,7 @@
 
 2. email verify and phone verify still in beta
 
-3. pfp changer / bio changer```
+3. pfp changer / bio changer
 
 # Discord Server
 
