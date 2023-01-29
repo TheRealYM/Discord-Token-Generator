@@ -16,6 +16,14 @@
 
 **Boost ur server from low to high in an instant with our Member Booster ;)**
 
+**Functions to add
+
+1. password / user format
+
+2. email verify and phone verify still in beta
+
+3. pfp changer / bio changer**
+
 # Discord Server
 
 **https://discord.gg/G8AK7g5zaz** JOIN US TODAY
