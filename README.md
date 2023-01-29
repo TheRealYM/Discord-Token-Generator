@@ -16,13 +16,13 @@
 
 **Boost ur server from low to high in an instant with our Member Booster ;)**
 
-**Functions to add
+```Functions to add
 
 1. password / user format
 
 2. email verify and phone verify still in beta
 
-3. pfp changer / bio changer**
+3. pfp changer / bio changer```
 
 # Discord Server
 
