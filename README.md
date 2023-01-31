@@ -1,6 +1,6 @@
  # YM Discord Token Generator / Member booster 😶‍🌫️
  
- **YMGENERATOR | MEMBER BOOSTER V 1.6**
+ **YMGENERATOR | MEMBER BOOSTER V 1.7**
 
 # Preview
 
