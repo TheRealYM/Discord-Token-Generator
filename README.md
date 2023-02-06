@@ -1,30 +1,18 @@
- # YM Discord Token Generator / Member booster 😶‍🌫️
+ # Shade Member Booster
  
- **YMGENERATOR | MEMBER BOOSTER V 1.7**
+ **Shade Member booster 🫡**
 
 # Preview
 
-![image](https://user-images.githubusercontent.com/123413634/214612592-c522e0de-0bef-46ae-8314-d2b717a7bc48.png)
-![image](https://user-images.githubusercontent.com/123413634/214612747-c971d9c0-9a40-4135-b5f9-97b0f1f72e30.png)
+![image](https://user-images.githubusercontent.com/123413634/217056621-7f6d814f-d804-4e45-b043-b54913fb0831.png)
 
-# Function's
-```1. Auto Joiner```
 
-```2. Token gets saved into tokens.txt```
+# Shade Member Booster
 
-```3. Fast and Smooth```
+**Fast and smooth**
 
 **Boost ur server from low to high in an instant with our Member Booster ;)**
 
-```
-Functions to add
-
-1. password / user format
-
-2. email verify and phone verify still in beta
-
-3. pfp changer / bio changer
-
 # Discord Server
 
-**https://discord.gg/G8AK7g5zaz** JOIN US TODAY
+**https://discord.gg/G8AK7g5zaz JOIN US TODAY**
