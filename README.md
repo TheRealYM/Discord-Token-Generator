@@ -23,4 +23,4 @@
 
 # Discord Server
 
-**https://discord.gg/G8AK7g5zaz JOIN US TODAY**
+**https://discord.gg/shadegen JOIN US TODAY**
