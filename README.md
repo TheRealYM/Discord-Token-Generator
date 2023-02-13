@@ -1,6 +1,6 @@
  # Shade Member Booster's
  
- **Shade Member booster lol 🫡**
+ **Shade Member booster 🫡**
 
 # Preview
 
